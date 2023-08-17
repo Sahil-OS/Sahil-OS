@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to contribute on **Open Source**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Python**
 
 - 📫 How to reach me **sahilpokharkar3@gmail.com**
 
